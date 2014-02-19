@@ -5,7 +5,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   parts/part1
+   part1
    parts/bar
 
 
